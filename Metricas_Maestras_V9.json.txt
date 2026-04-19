@@ -1,0 +1,59 @@
+[
+    {
+        "evento_id": "Nodo_01_Mayo",
+        "fecha": "2026-05-10",
+        "freq_base_hz": 232.04,
+        "tipo": "CBC_High_Mass",
+        "configuracion": "36+1_Universal_Core",
+        "parametros_prediccion": {
+            "fase_objetivo_rms": 0.7071,
+            "umbral_saturacion": 0.7086,
+            "desfase_critico_deg": 36.939,
+            "ganancia_bobina_37": 1.9694
+        },
+        "vectores_de_fase": [
+            0.0, 9.3, 18.6, 27.9, 37.2, 46.5, 55.8, 65.1, 74.4, 83.7, 93.0, 102.3,
+            111.6, 120.9, 130.2, 139.5, 148.8, 158.1, 167.4, 176.7, 186.0, 195.3, 204.6,
+            213.9, 223.2, 232.5, 241.8, 251.1, 260.4, 269.7, 279.0, 288.3, 297.6, 306.9,
+            316.2, 325.5
+        ]
+    },
+    {
+        "evento_id": "Nodo_02_Junio",
+        "fecha": "2026-06-21",
+        "freq_base_hz": 187.37,
+        "tipo": "GRB_Anomalous",
+        "configuracion": "36+1_Universal_Core",
+        "parametros_prediccion": {
+            "fase_objetivo_rms": 0.7071,
+            "umbral_saturacion": 0.7086,
+            "desfase_critico_deg": 36.939,
+            "ganancia_bobina_37": 1.9694
+        },
+        "vectores_de_fase": [
+            0.0, 9.3, 18.6, 27.9, 37.2, 46.5, 55.8, 65.1, 74.4, 83.7, 93.0, 102.3,
+            111.6, 120.9, 130.2, 139.5, 148.8, 158.1, 167.4, 176.7, 186.0, 195.3, 204.6,
+            213.9, 223.2, 232.5, 241.8, 251.1, 260.4, 269.7, 279.0, 288.3, 297.6, 306.9,
+            316.2, 325.5
+        ]
+    },
+    {
+        "evento_id": "Nodo_03_Agosto",
+        "fecha": "2026-08-15",
+        "freq_base_hz": 232.04,
+        "tipo": "Pulsar_Causal",
+        "configuracion": "36+1_Universal_Core",
+        "parametros_prediccion": {
+            "fase_objetivo_rms": 0.7071,
+            "umbral_saturacion": 0.7086,
+            "desfase_critico_deg": 36.939,
+            "ganancia_bobina_37": 1.9694
+        },
+        "vectores_de_fase": [
+            0.0, 9.3, 18.6, 27.9, 37.2, 46.5, 55.8, 65.1, 74.4, 83.7, 93.0, 102.3,
+            111.6, 120.9, 130.2, 139.5, 148.8, 158.1, 167.4, 176.7, 186.0, 195.3, 204.6,
+            213.9, 223.2, 232.5, 241.8, 251.1, 260.4, 269.7, 279.0, 288.3, 297.6, 306.9,
+            316.2, 325.5
+        ]
+    }
+]

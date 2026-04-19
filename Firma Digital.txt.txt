@@ -1,0 +1,15 @@
+--- INICIO DE FIRMA CAUSAL ---
+Fecha de fijación: 18 de Abril de 2026
+Protocolo: UAT/UPC V9.0 Universal Core (36+1)
+Investigador: Miguel Ángel Percudani (ORCID: 0009-0007-1748-3212)
+
+Por medio de la presente, se certifica que los vectores de fase y las coordenadas temporales
+contenidas en el archivo "Metricas_Maestras_V9.json" han sido generados y publicados en esta
+fecha, antes de cualquier anuncio o detección por parte de las colaboraciones LIGO, Virgo,
+KAGRA u otros observatorios astronómicos respecto a los eventos predichos para las fechas
+10 de Mayo, 21 de Junio y 15 de Agosto de 2026.
+
+Hash SHA256 del archivo JSON (a completar tras la generación):
+[Pegar aquí el hash obtenido con: sha256sum Metricas_Maestras_V9.json]
+
+--- FIN DE FIRMA CAUSAL ---
